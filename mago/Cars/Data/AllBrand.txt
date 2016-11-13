@@ -1,0 +1,114 @@
+AC Cars
+Acura
+Abarth
+Alfa Romeo
+ALPINA
+Ariel Motor
+ARO
+Artega
+Aston Martin
+AUDI
+Austin Healey
+BAW
+Beijing Jeep
+Bentley
+Bitter
+BMW
+Brilliance
+Bristol
+Bugatti
+Buick
+BYD
+Cadillac
+Caterham
+Chery
+Chevrolet
+Chrysler
+Citroen
+Dacia
+DADI
+Daewoo
+Dodge
+Daihatsu
+Daimler
+DKW
+Derways
+Eagle
+Elfin Sports Cars
+FAW
+Ferrari
+FIAT
+Fisker Karma
+Ford
+Geely
+GEO
+GMC
+Gonow
+Great Wall
+Gumpert
+Hafei
+Haima
+Honda
+Horch
+Hudson
+Hummer
+Hyundai
+Infiniti
+Isuzu
+Jaguar
+Jeep
+Kia
+Koenigsegg
+Lamborghini
+Land Rover
+Landwind
+Lancia
+Lexus
+Leyland
+Lifan
+Lincoln
+Lotus
+Mahindra
+Maserati
+Maybach
+Mazda
+Mercedes
+Mercury
+Mini
+Mitsubishi
+Morgan
+Nissan
+Opel
+Pagani
+Peugeot
+Plymouth
+Pontiac
+Porsche
+Renault
+Rinspeed
+Rolls-Royce
+SAAB
+Saleen
+Saturn
+Scion
+Seat
+Skoda
+Smart
+Spyker
+Ssang Yong
+Subaru
+Suzuki
+Tesla
+Toyota
+Vauxhall
+Volkswagen
+Volvo
+Wartburg
+Wiesmann
+Zenvo
+VAZ
+GAZ
+ZAZ
+Izh
+Moskvich
+UAZ

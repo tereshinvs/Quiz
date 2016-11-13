@@ -1,0 +1,31 @@
+25
+London
+Moscow
+Nizhny Novgorod
+Saint-Petersburg
+Paris
+Roma
+Barcelona
+Madrid
+Lisboa
+Porto
+Berlin
+Amsterdam
+New-York
+Sidney
+Auckland
+Tokyo
+Bern
+Lyon
+Oslo
+Chicago
+Stockholm
+Kazan
+Kiev
+Tallin
+Bruxelles
+Marselle
+Milano
+Wien
+Sao Paulo
+Ottawa
